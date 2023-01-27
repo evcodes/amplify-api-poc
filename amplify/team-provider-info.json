@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-selfstorageadmin-dev-140901-authRole",
+      "UnauthRoleArn": "arn:aws:iam::881985633162:role/amplify-selfstorageadmin-dev-140901-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::881985633162:role/amplify-selfstorageadmin-dev-140901-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-selfstorageadmin-dev-140901-deployment",
+      "UnauthRoleName": "amplify-selfstorageadmin-dev-140901-unauthRole",
+      "StackName": "amplify-selfstorageadmin-dev-140901",
+      "StackId": "arn:aws:cloudformation:us-east-1:881985633162:stack/amplify-selfstorageadmin-dev-140901/e5ee0330-9dac-11ed-93e5-0a0d376300b3",
+      "AmplifyAppId": "d215hoio74zoaj"
+    },
+    "categories": {
+      "api": {
+        "selfstorageadmin": {}
+      }
+    }
+  }
+}
